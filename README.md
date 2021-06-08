@@ -1,2 +1,1 @@
-# DEATH-bot-commands
-Os caomandos do bot DEATH estao aqui!
+veja os comandos do DEATH bot aqui!
