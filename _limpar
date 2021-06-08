@@ -1,0 +1,7 @@
+use esse comando para limpar um chat
+
+use _limpar (numero de mensgens que você queira apagar)
+
+_limpar 4
+
+bot: 4 mensagens foram apagadas nesse chat!
